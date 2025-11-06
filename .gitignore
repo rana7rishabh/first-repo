@@ -2,3 +2,4 @@ db.sql
 password.txt
 *.log
 !important.log
+about.html
